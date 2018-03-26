@@ -17,3 +17,9 @@ sized/
 thumbs/
 _thumbs/
 */expressionengine/cache/*
+
+# Output
+*.aux
+*.log
+*.out
+*.synctex.gz
